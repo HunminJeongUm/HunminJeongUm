@@ -1,1 +1,2 @@
-### SeungJunOh indivisual folder
+### Hello
+### This is Oh Seungjun indivisual folder
